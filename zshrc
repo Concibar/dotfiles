@@ -70,3 +70,6 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+
+# Created by `pipx` on 2023-10-18 15:42:13
+export PATH="$PATH:/home/jan/.local/bin"
